@@ -1,6 +1,6 @@
 # 🏡 Análisis de Datos Airbnb: Tipos de Propiedad y Precios
 
-Este proyecto aplica un flujo de trabajo completo de análisis de datos sobre una base de alojamientos de Airbnb, utilizando Python y pandas. A partir de un dataset crudo, se limpiaron los datos, se analizaron tendencias por tipo de propiedad, y se exportó un dataset depurado para análisis posteriores.
+Este proyecto aplica un flujo de trabajo completo de análisis de datos sobre una base de alojamientos de Airbnb, utilizando Python y pandas. A partir de un dataset sin procesar, se limpiaron los datos, se analizaron tendencias por tipo de propiedad, y se exportó un dataset depurado para análisis posteriores.
 
 ---
 
