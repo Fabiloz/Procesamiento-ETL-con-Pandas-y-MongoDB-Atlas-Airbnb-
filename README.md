@@ -36,7 +36,7 @@ Transformar y analizar una base de datos de Airbnb para obtener insights clave s
 ## 📈 Resultados o hallazgos
 
 - Se eliminaron **1.474 filas** con valores nulos, quedando un total de **4.081 registros limpios**.
-- El **precio promedio** varía ampliamente entre propiedades: desde alojamientos básicos como *Campsite* (~$25) hasta opciones premium como *Houseboat* (~$2.999).
+- El **precio promedio** varía ampliamente entre propiedades: desde alojamientos básicos como *Campsite* (USD 25) hasta opciones premium como *Houseboat* (USD 2.999).
 - El tipo de propiedad más común es el **Apartment**, con **2.681 registros**.
 - Se logró una base más precisa para análisis futuros y visualizaciones.
 
