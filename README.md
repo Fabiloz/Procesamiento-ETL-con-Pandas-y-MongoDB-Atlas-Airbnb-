@@ -55,10 +55,10 @@ Transformar y analizar una base de datos de Airbnb para obtener insights clave s
 
 > Gráfico de barras "Top 5 tipos de propiedades más comunes en Airbnb". 
 
-![Top 5 propiedades más comunes de Airbnb.png](<attachment:Top 5 propiedades más comunes de Airbnb.png>)
+![Top 5 propiedades más comunes de Airbnb](https://github.com/user-attachments/assets/3340b0c0-41b0-4ac9-82d2-1b97891536bb)
 
 
-## > El script principal se encuentra en https://github.com/Fabiloz/Procesamiento-ETL-con-Pandas-y-MongoDB-Atlas-Airbnb-/blob/master/etl_airbnb.ipynb
+## El script principal se encuentra en https://github.com/Fabiloz/Procesamiento-ETL-con-Pandas-y-MongoDB-Atlas-Airbnb-/blob/master/etl_airbnb.ipynb
 
 ---
 
